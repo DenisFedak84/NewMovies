@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetMovie</string>
+    <string name="imageview">ImageView</string>
+</resources>
